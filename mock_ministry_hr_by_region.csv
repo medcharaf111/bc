@@ -1,0 +1,365 @@
+region,role,count,male,female,male_female_ratio
+ARIANA,Primary Teachers and Educators,1225,306,919,306:919
+ARIANA,Middle & High School Teachers,684,308,376,308:376
+ARIANA,Administrative staff,370,148,222,148:222
+ARIANA,Technicians,100,80,20,80:20
+ARIANA,Analysts,71,28,43,28:43
+ARIANA,Engineers,71,60,11,60:11
+ARIANA,Assessors,71,43,28,43:28
+ARIANA,Applied Counselors,43,15,28,15:28
+ARIANA,Info & Guidance Counselors,43,15,28,15:28
+ARIANA,School Directors,58,41,17,41:17
+ARIANA,Directors (senior managers),28,21,7,21:7
+ARIANA,Primary Level Inspectors,28,18,10,18:10
+ARIANA,Middle & High Inspectors,28,18,10,18:10
+ARIANA,General Supervisors,28,20,8,20:8
+BEJA,Primary Teachers and Educators,560,140,420,140:420
+BEJA,Middle & High School Teachers,312,140,172,140:172
+BEJA,Administrative staff,169,68,101,68:101
+BEJA,Technicians,46,37,9,37:9
+BEJA,Analysts,33,13,20,13:20
+BEJA,Engineers,33,28,5,28:5
+BEJA,Assessors,33,20,13,20:13
+BEJA,Applied Counselors,20,7,13,7:13
+BEJA,Info & Guidance Counselors,20,7,13,7:13
+BEJA,School Directors,26,18,8,18:8
+BEJA,Directors (senior managers),12,9,3,9:3
+BEJA,Primary Level Inspectors,12,8,4,8:4
+BEJA,Middle & High Inspectors,13,8,5,8:5
+BEJA,General Supervisors,13,9,4,9:4
+BEN_AROUS,Primary Teachers and Educators,1312,328,984,328:984
+BEN_AROUS,Middle & High School Teachers,732,329,403,329:403
+BEN_AROUS,Administrative staff,396,158,238,158:238
+BEN_AROUS,Technicians,108,86,22,86:22
+BEN_AROUS,Analysts,76,30,46,30:46
+BEN_AROUS,Engineers,76,65,11,65:11
+BEN_AROUS,Assessors,76,46,30,46:30
+BEN_AROUS,Applied Counselors,47,16,31,16:31
+BEN_AROUS,Info & Guidance Counselors,46,16,30,16:30
+BEN_AROUS,School Directors,61,43,18,43:18
+BEN_AROUS,Directors (senior managers),30,22,8,22:8
+BEN_AROUS,Primary Level Inspectors,30,20,10,20:10
+BEN_AROUS,Middle & High Inspectors,30,20,10,20:10
+BEN_AROUS,General Supervisors,30,21,9,21:9
+BIZERTE,Primary Teachers and Educators,1088,272,816,272:816
+BIZERTE,Middle & High School Teachers,607,273,334,273:334
+BIZERTE,Administrative staff,329,132,197,132:197
+BIZERTE,Technicians,89,71,18,71:18
+BIZERTE,Analysts,63,25,38,25:38
+BIZERTE,Engineers,63,54,9,54:9
+BIZERTE,Assessors,63,38,25,38:25
+BIZERTE,Applied Counselors,39,14,25,14:25
+BIZERTE,Info & Guidance Counselors,39,14,25,14:25
+BIZERTE,School Directors,51,36,15,36:15
+BIZERTE,Directors (senior managers),25,19,6,19:6
+BIZERTE,Primary Level Inspectors,25,16,9,16:9
+BIZERTE,Middle & High Inspectors,25,16,9,16:9
+BIZERTE,General Supervisors,25,18,7,18:7
+GABES,Primary Teachers and Educators,739,185,554,185:554
+GABES,Middle & High School Teachers,412,185,227,185:227
+GABES,Administrative staff,223,89,134,89:134
+GABES,Technicians,60,48,12,48:12
+GABES,Analysts,44,18,26,18:26
+GABES,Engineers,43,37,6,37:6
+GABES,Assessors,43,26,17,26:17
+GABES,Applied Counselors,26,9,17,9:17
+GABES,Info & Guidance Counselors,26,9,17,9:17
+GABES,School Directors,34,24,10,24:10
+GABES,Directors (senior managers),17,13,4,13:4
+GABES,Primary Level Inspectors,17,11,6,11:6
+GABES,Middle & High Inspectors,17,11,6,11:6
+GABES,General Supervisors,17,12,5,12:5
+GAFSA,Primary Teachers and Educators,644,161,483,161:483
+GAFSA,Middle & High School Teachers,360,162,198,162:198
+GAFSA,Administrative staff,195,78,117,78:117
+GAFSA,Technicians,52,42,10,42:10
+GAFSA,Analysts,37,15,22,15:22
+GAFSA,Engineers,37,31,6,31:6
+GAFSA,Assessors,37,22,15,22:15
+GAFSA,Applied Counselors,22,8,14,8:14
+GAFSA,Info & Guidance Counselors,22,8,14,8:14
+GAFSA,School Directors,30,21,9,21:9
+GAFSA,Directors (senior managers),16,12,4,12:4
+GAFSA,Primary Level Inspectors,16,10,6,10:6
+GAFSA,Middle & High Inspectors,15,10,5,10:5
+GAFSA,General Supervisors,15,10,5,10:5
+KEBILI,Primary Teachers and Educators,311,78,233,78:233
+KEBILI,Middle & High School Teachers,174,78,96,78:96
+KEBILI,Administrative staff,95,38,57,38:57
+KEBILI,Technicians,25,20,5,20:5
+KEBILI,Analysts,18,7,11,7:11
+KEBILI,Engineers,18,15,3,15:3
+KEBILI,Assessors,18,11,7,11:7
+KEBILI,Applied Counselors,11,4,7,4:7
+KEBILI,Info & Guidance Counselors,11,4,7,4:7
+KEBILI,School Directors,14,10,4,10:4
+KEBILI,Directors (senior managers),7,5,2,5:2
+KEBILI,Primary Level Inspectors,7,5,2,5:2
+KEBILI,Middle & High Inspectors,7,5,2,5:2
+KEBILI,General Supervisors,7,5,2,5:2
+JENDOUBA,Primary Teachers and Educators,733,183,550,183:550
+JENDOUBA,Middle & High School Teachers,410,184,226,184:226
+JENDOUBA,Administrative staff,222,89,133,89:133
+JENDOUBA,Technicians,60,48,12,48:12
+JENDOUBA,Analysts,43,17,26,17:26
+JENDOUBA,Engineers,43,37,6,37:6
+JENDOUBA,Assessors,43,26,17,26:17
+JENDOUBA,Applied Counselors,26,9,17,9:17
+JENDOUBA,Info & Guidance Counselors,26,9,17,9:17
+JENDOUBA,School Directors,34,24,10,24:10
+JENDOUBA,Directors (senior managers),16,12,4,12:4
+JENDOUBA,Primary Level Inspectors,17,11,6,11:6
+JENDOUBA,Middle & High Inspectors,17,11,6,11:6
+JENDOUBA,General Supervisors,17,12,5,12:5
+KAIROUAN,Primary Teachers and Educators,1091,273,818,273:818
+KAIROUAN,Middle & High School Teachers,609,274,335,274:335
+KAIROUAN,Administrative staff,331,132,199,132:199
+KAIROUAN,Technicians,90,72,18,72:18
+KAIROUAN,Analysts,63,25,38,25:38
+KAIROUAN,Engineers,63,54,9,54:9
+KAIROUAN,Assessors,63,38,25,38:25
+KAIROUAN,Applied Counselors,38,13,25,13:25
+KAIROUAN,Info & Guidance Counselors,38,13,25,13:25
+KAIROUAN,School Directors,52,36,16,36:16
+KAIROUAN,Directors (senior managers),25,19,6,19:6
+KAIROUAN,Primary Level Inspectors,25,16,9,16:9
+KAIROUAN,Middle & High Inspectors,25,16,9,16:9
+KAIROUAN,General Supervisors,25,18,7,18:7
+KASSERINE,Primary Teachers and Educators,845,211,634,211:634
+KASSERINE,Middle & High School Teachers,472,212,260,212:260
+KASSERINE,Administrative staff,255,102,153,102:153
+KASSERINE,Technicians,69,55,14,55:14
+KASSERINE,Analysts,49,20,29,20:29
+KASSERINE,Engineers,49,42,7,42:7
+KASSERINE,Assessors,49,29,20,29:20
+KASSERINE,Applied Counselors,29,10,19,10:19
+KASSERINE,Info & Guidance Counselors,29,10,19,10:19
+KASSERINE,School Directors,39,27,12,27:12
+KASSERINE,Directors (senior managers),20,15,5,15:5
+KASSERINE,Primary Level Inspectors,20,13,7,13:7
+KASSERINE,Middle & High Inspectors,20,13,7,13:7
+KASSERINE,General Supervisors,20,14,6,14:6
+KEF,Primary Teachers and Educators,449,112,337,112:337
+KEF,Middle & High School Teachers,251,113,138,113:138
+KEF,Administrative staff,136,54,82,54:82
+KEF,Technicians,37,30,7,30:7
+KEF,Analysts,26,10,16,10:16
+KEF,Engineers,26,22,4,22:4
+KEF,Assessors,26,16,10,16:10
+KEF,Applied Counselors,16,6,10,6:10
+KEF,Info & Guidance Counselors,16,6,10,6:10
+KEF,School Directors,21,15,6,15:6
+KEF,Directors (senior managers),10,8,2,8:2
+KEF,Primary Level Inspectors,10,6,4,6:4
+KEF,Middle & High Inspectors,10,6,4,6:4
+KEF,General Supervisors,10,7,3,7:3
+MAHDIA,Primary Teachers and Educators,813,203,610,203:610
+MAHDIA,Middle & High School Teachers,454,204,250,204:250
+MAHDIA,Administrative staff,246,98,148,98:148
+MAHDIA,Technicians,66,53,13,53:13
+MAHDIA,Analysts,47,19,28,19:28
+MAHDIA,Engineers,47,40,7,40:7
+MAHDIA,Assessors,47,28,19,28:19
+MAHDIA,Applied Counselors,28,10,18,10:18
+MAHDIA,Info & Guidance Counselors,28,10,18,10:18
+MAHDIA,School Directors,38,27,11,27:11
+MAHDIA,Directors (senior managers),20,15,5,15:5
+MAHDIA,Primary Level Inspectors,19,12,7,12:7
+MAHDIA,Middle & High Inspectors,19,12,7,12:7
+MAHDIA,General Supervisors,19,13,6,13:6
+MANOUBA,Primary Teachers and Educators,775,194,581,194:581
+MANOUBA,Middle & High School Teachers,432,194,238,194:238
+MANOUBA,Administrative staff,234,94,140,94:140
+MANOUBA,Technicians,63,50,13,50:13
+MANOUBA,Analysts,45,18,27,18:27
+MANOUBA,Engineers,45,38,7,38:7
+MANOUBA,Assessors,45,27,18,27:18
+MANOUBA,Applied Counselors,27,9,18,9:18
+MANOUBA,Info & Guidance Counselors,27,9,18,9:18
+MANOUBA,School Directors,36,25,11,25:11
+MANOUBA,Directors (senior managers),18,14,4,14:4
+MANOUBA,Primary Level Inspectors,18,12,6,12:6
+MANOUBA,Middle & High Inspectors,18,12,6,12:6
+MANOUBA,General Supervisors,18,13,5,13:5
+MEDENINE,Primary Teachers and Educators,948,237,711,237:711
+MEDENINE,Middle & High School Teachers,529,238,291,238:291
+MEDENINE,Administrative staff,287,115,172,115:172
+MEDENINE,Technicians,77,62,15,62:15
+MEDENINE,Analysts,55,22,33,22:33
+MEDENINE,Engineers,55,47,8,47:8
+MEDENINE,Assessors,55,33,22,33:22
+MEDENINE,Applied Counselors,33,12,21,12:21
+MEDENINE,Info & Guidance Counselors,33,12,21,12:21
+MEDENINE,School Directors,44,31,13,31:13
+MEDENINE,Directors (senior managers),22,16,6,16:6
+MEDENINE,Primary Level Inspectors,22,14,8,14:8
+MEDENINE,Middle & High Inspectors,22,14,8,14:8
+MEDENINE,General Supervisors,22,15,7,15:7
+MONASTIR,Primary Teachers and Educators,1109,277,832,277:832
+MONASTIR,Middle & High School Teachers,619,279,340,279:340
+MONASTIR,Administrative staff,335,134,201,134:201
+MONASTIR,Technicians,90,72,18,72:18
+MONASTIR,Analysts,64,26,38,26:38
+MONASTIR,Engineers,64,54,10,54:10
+MONASTIR,Assessors,64,38,26,38:26
+MONASTIR,Applied Counselors,39,14,25,14:25
+MONASTIR,Info & Guidance Counselors,39,14,25,14:25
+MONASTIR,School Directors,52,36,16,36:16
+MONASTIR,Directors (senior managers),27,20,7,20:7
+MONASTIR,Primary Level Inspectors,26,17,9,17:9
+MONASTIR,Middle & High Inspectors,26,17,9,17:9
+MONASTIR,General Supervisors,26,18,8,18:8
+NABEUL,Primary Teachers and Educators,1587,397,1190,397:1190
+NABEUL,Middle & High School Teachers,886,399,487,399:487
+NABEUL,Administrative staff,480,192,288,192:288
+NABEUL,Technicians,129,103,26,103:26
+NABEUL,Analysts,92,37,55,37:55
+NABEUL,Engineers,92,78,14,78:14
+NABEUL,Assessors,92,55,37,55:37
+NABEUL,Applied Counselors,55,19,36,19:36
+NABEUL,Info & Guidance Counselors,55,19,36,19:36
+NABEUL,School Directors,74,52,22,52:22
+NABEUL,Directors (senior managers),37,28,9,28:9
+NABEUL,Primary Level Inspectors,37,24,13,24:13
+NABEUL,Middle & High Inspectors,37,24,13,24:13
+NABEUL,General Supervisors,37,26,11,26:11
+SELIANA,Primary Teachers and Educators,415,104,311,104:311
+SELIANA,Middle & High School Teachers,232,104,128,104:128
+SELIANA,Administrative staff,126,50,76,50:76
+SELIANA,Technicians,34,27,7,27:7
+SELIANA,Analysts,24,10,14,10:14
+SELIANA,Engineers,24,20,4,20:4
+SELIANA,Assessors,24,14,10,14:10
+SELIANA,Applied Counselors,14,5,9,5:9
+SELIANA,Info & Guidance Counselors,14,5,9,5:9
+SELIANA,School Directors,19,13,6,13:6
+SELIANA,Directors (senior managers),10,8,2,8:2
+SELIANA,Primary Level Inspectors,10,6,4,6:4
+SELIANA,Middle & High Inspectors,10,6,4,6:4
+SELIANA,General Supervisors,10,7,3,7:3
+SFAX_1,Primary Teachers and Educators,933,233,700,233:700
+SFAX_1,Middle & High School Teachers,521,234,287,234:287
+SFAX_1,Administrative staff,282,113,169,113:169
+SFAX_1,Technicians,76,61,15,61:15
+SFAX_1,Analysts,53,21,32,21:32
+SFAX_1,Engineers,53,45,8,45:8
+SFAX_1,Assessors,54,32,22,32:22
+SFAX_1,Applied Counselors,33,12,21,12:21
+SFAX_1,Info & Guidance Counselors,33,12,21,12:21
+SFAX_1,School Directors,43,30,13,30:13
+SFAX_1,Directors (senior managers),22,16,6,16:6
+SFAX_1,Primary Level Inspectors,22,14,8,14:8
+SFAX_1,Middle & High Inspectors,22,14,8,14:8
+SFAX_1,General Supervisors,22,15,7,15:7
+SFAX_2,Primary Teachers and Educators,933,233,700,233:700
+SFAX_2,Middle & High School Teachers,521,234,287,234:287
+SFAX_2,Administrative staff,282,113,169,113:169
+SFAX_2,Technicians,76,61,15,61:15
+SFAX_2,Analysts,53,21,32,21:32
+SFAX_2,Engineers,53,45,8,45:8
+SFAX_2,Assessors,54,32,22,32:22
+SFAX_2,Applied Counselors,33,12,21,12:21
+SFAX_2,Info & Guidance Counselors,33,12,21,12:21
+SFAX_2,School Directors,43,30,13,30:13
+SFAX_2,Directors (senior managers),22,16,6,16:6
+SFAX_2,Primary Level Inspectors,22,14,8,14:8
+SFAX_2,Middle & High Inspectors,22,14,8,14:8
+SFAX_2,General Supervisors,22,15,7,15:7
+SIDI_BOUZID,Primary Teachers and Educators,834,208,626,208:626
+SIDI_BOUZID,Middle & High School Teachers,467,210,257,210:257
+SIDI_BOUZID,Administrative staff,252,101,151,101:151
+SIDI_BOUZID,Technicians,69,55,14,55:14
+SIDI_BOUZID,Analysts,48,19,29,19:29
+SIDI_BOUZID,Engineers,48,41,7,41:7
+SIDI_BOUZID,Assessors,48,29,19,29:19
+SIDI_BOUZID,Applied Counselors,29,10,19,10:19
+SIDI_BOUZID,Info & Guidance Counselors,29,10,19,10:19
+SIDI_BOUZID,School Directors,40,28,12,28:12
+SIDI_BOUZID,Directors (senior managers),19,14,5,14:5
+SIDI_BOUZID,Primary Level Inspectors,19,12,7,12:7
+SIDI_BOUZID,Middle & High Inspectors,19,12,7,12:7
+SIDI_BOUZID,General Supervisors,19,13,6,13:6
+SOUSSE,Primary Teachers and Educators,1367,342,1025,342:1025
+SOUSSE,Middle & High School Teachers,764,344,420,344:420
+SOUSSE,Administrative staff,414,166,248,166:248
+SOUSSE,Technicians,110,88,22,88:22
+SOUSSE,Analysts,79,32,47,32:47
+SOUSSE,Engineers,80,68,12,68:12
+SOUSSE,Assessors,80,48,32,48:32
+SOUSSE,Applied Counselors,48,17,31,17:31
+SOUSSE,Info & Guidance Counselors,48,17,31,17:31
+SOUSSE,School Directors,64,45,19,45:19
+SOUSSE,Directors (senior managers),32,24,8,24:8
+SOUSSE,Primary Level Inspectors,32,21,11,21:11
+SOUSSE,Middle & High Inspectors,32,21,11,21:11
+SOUSSE,General Supervisors,32,22,10,22:10
+TATAOUINE,Primary Teachers and Educators,276,69,207,69:207
+TATAOUINE,Middle & High School Teachers,155,70,85,70:85
+TATAOUINE,Administrative staff,83,33,50,33:50
+TATAOUINE,Technicians,22,18,4,18:4
+TATAOUINE,Analysts,16,6,10,6:10
+TATAOUINE,Engineers,16,14,2,14:2
+TATAOUINE,Assessors,16,10,6,10:6
+TATAOUINE,Applied Counselors,10,4,6,4:6
+TATAOUINE,Info & Guidance Counselors,10,4,6,4:6
+TATAOUINE,School Directors,13,9,4,9:4
+TATAOUINE,Directors (senior managers),6,4,2,4:2
+TATAOUINE,Primary Level Inspectors,6,4,2,4:2
+TATAOUINE,Middle & High Inspectors,6,4,2,4:2
+TATAOUINE,General Supervisors,6,4,2,4:2
+TOZEUR,Primary Teachers and Educators,211,53,158,53:158
+TOZEUR,Middle & High School Teachers,118,53,65,53:65
+TOZEUR,Administrative staff,64,26,38,26:38
+TOZEUR,Technicians,17,14,3,14:3
+TOZEUR,Analysts,12,5,7,5:7
+TOZEUR,Engineers,12,10,2,10:2
+TOZEUR,Assessors,12,7,5,7:5
+TOZEUR,Applied Counselors,7,2,5,2:5
+TOZEUR,Info & Guidance Counselors,7,2,5,2:5
+TOZEUR,School Directors,10,7,3,7:3
+TOZEUR,Directors (senior managers),6,4,2,4:2
+TOZEUR,Primary Level Inspectors,5,3,2,3:2
+TOZEUR,Middle & High Inspectors,5,3,2,3:2
+TOZEUR,General Supervisors,5,4,1,4:1
+TUNIS_1,Primary Teachers and Educators,977,244,733,244:733
+TUNIS_1,Middle & High School Teachers,546,246,300,246:300
+TUNIS_1,Administrative staff,295,118,177,118:177
+TUNIS_1,Technicians,80,64,16,64:16
+TUNIS_1,Analysts,57,23,34,23:34
+TUNIS_1,Engineers,57,48,9,48:9
+TUNIS_1,Assessors,57,34,23,34:23
+TUNIS_1,Applied Counselors,33,12,21,12:21
+TUNIS_1,Info & Guidance Counselors,34,12,22,12:22
+TUNIS_1,School Directors,45,31,14,31:14
+TUNIS_1,Directors (senior managers),23,17,6,17:6
+TUNIS_1,Primary Level Inspectors,23,15,8,15:8
+TUNIS_1,Middle & High Inspectors,23,15,8,15:8
+TUNIS_1,General Supervisors,23,16,7,16:7
+TUNIS_2,Primary Teachers and Educators,977,244,733,244:733
+TUNIS_2,Middle & High School Teachers,546,246,300,246:300
+TUNIS_2,Administrative staff,295,118,177,118:177
+TUNIS_2,Technicians,80,64,16,64:16
+TUNIS_2,Analysts,57,23,34,23:34
+TUNIS_2,Engineers,57,48,9,48:9
+TUNIS_2,Assessors,57,34,23,34:23
+TUNIS_2,Applied Counselors,33,12,21,12:21
+TUNIS_2,Info & Guidance Counselors,34,12,22,12:22
+TUNIS_2,School Directors,45,31,14,31:14
+TUNIS_2,Directors (senior managers),23,17,6,17:6
+TUNIS_2,Primary Level Inspectors,23,15,8,15:8
+TUNIS_2,Middle & High Inspectors,23,15,8,15:8
+TUNIS_2,General Supervisors,23,16,7,16:7
+ZAGHOUAN,Primary Teachers and Educators,347,87,260,87:260
+ZAGHOUAN,Middle & High School Teachers,193,87,106,87:106
+ZAGHOUAN,Administrative staff,106,42,64,42:64
+ZAGHOUAN,Technicians,28,22,6,22:6
+ZAGHOUAN,Analysts,20,8,12,8:12
+ZAGHOUAN,Engineers,20,17,3,17:3
+ZAGHOUAN,Assessors,20,12,8,12:8
+ZAGHOUAN,Applied Counselors,12,4,8,4:8
+ZAGHOUAN,Info & Guidance Counselors,12,4,8,4:8
+ZAGHOUAN,School Directors,16,11,5,11:5
+ZAGHOUAN,Directors (senior managers),8,6,2,6:2
+ZAGHOUAN,Primary Level Inspectors,8,5,3,5:3
+ZAGHOUAN,Middle & High Inspectors,8,5,3,5:3
+ZAGHOUAN,General Supervisors,8,6,2,6:2

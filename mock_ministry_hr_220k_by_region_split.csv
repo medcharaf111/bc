@@ -1,0 +1,287 @@
+region,role,count,male,female,male_female_ratio,median_age
+ARIANA,Primary School Teachers,4511,1534,2977,1534:2977,38
+ARIANA,Preparatory School Teachers,2537,1144,1393,1144:1393,42
+ARIANA,Secondary School Teachers,2350,1081,1269,1081:1269,44
+ARIANA,Administrative staff,1003,401,602,401:602,41
+ARIANA,Technicians / Technical staff,376,282,94,282:94,39
+ARIANA,Counselors (orientation & guidance),251,88,163,88:163,43
+ARIANA,Applied Counselors / Assessors (قيمون),251,138,113,138:113,45
+ARIANA,Supervisors & Directors,143,100,43,100:43,49
+ARIANA,Inspectors (all levels),63,41,22,41:22,51
+ARIANA,Engineers,63,54,9,54:9,42
+ARIANA,"Other staff (contractors, janitors, technical assistants)",984,492,492,492:492,40
+BEJA,Primary School Teachers,2061,701,1360,701:1360,38
+BEJA,Preparatory School Teachers,1159,522,637,522:637,42
+BEJA,Secondary School Teachers,1073,494,579,494:579,44
+BEJA,Administrative staff,458,183,275,183:275,41
+BEJA,Technicians / Technical staff,172,129,43,129:43,39
+BEJA,Counselors (orientation & guidance),114,40,74,40:74,43
+BEJA,Applied Counselors / Assessors (قيمون),114,63,51,63:51,45
+BEJA,Supervisors & Directors,66,46,20,46:20,49
+BEJA,Inspectors (all levels),29,19,10,19:10,51
+BEJA,Engineers,29,25,4,25:4,42
+BEJA,"Other staff (contractors, janitors, technical assistants)",449,224,225,224:225,40
+BEN_AROUS,Primary School Teachers,4831,1643,3188,1643:3188,38
+BEN_AROUS,Preparatory School Teachers,2717,1226,1491,1226:1491,42
+BEN_AROUS,Secondary School Teachers,2516,1157,1359,1157:1359,44
+BEN_AROUS,Administrative staff,1073,429,644,429:644,41
+BEN_AROUS,Technicians / Technical staff,404,303,101,303:101,39
+BEN_AROUS,Counselors (orientation & guidance),268,94,174,94:174,43
+BEN_AROUS,Applied Counselors / Assessors (قيمون),268,147,121,147:121,45
+BEN_AROUS,Supervisors & Directors,154,108,46,108:46,49
+BEN_AROUS,Inspectors (all levels),67,44,23,44:23,51
+BEN_AROUS,Engineers,67,57,10,57:10,42
+BEN_AROUS,"Other staff (contractors, janitors, technical assistants)",1053,526,527,526:527,40
+BIZERTE,Primary School Teachers,4008,1363,2645,1363:2645,38
+BIZERTE,Preparatory School Teachers,2254,1017,1237,1017:1237,42
+BIZERTE,Secondary School Teachers,2088,960,1128,960:1128,44
+BIZERTE,Administrative staff,891,356,535,356:535,41
+BIZERTE,Technicians / Technical staff,334,250,84,250:84,39
+BIZERTE,Counselors (orientation & guidance),223,78,145,78:145,43
+BIZERTE,Applied Counselors / Assessors (قيمون),223,123,100,123:100,45
+BIZERTE,Supervisors & Directors,128,90,38,90:38,49
+BIZERTE,Inspectors (all levels),56,36,20,36:20,51
+BIZERTE,Engineers,56,48,8,48:8,42
+BIZERTE,"Other staff (contractors, janitors, technical assistants)",873,436,437,436:437,40
+GABES,Primary School Teachers,2721,925,1796,925:1796,38
+GABES,Preparatory School Teachers,1530,690,840,690:840,42
+GABES,Secondary School Teachers,1417,652,765,652:765,44
+GABES,Administrative staff,605,242,363,242:363,41
+GABES,Technicians / Technical staff,227,170,57,170:57,39
+GABES,Counselors (orientation & guidance),150,52,98,52:98,43
+GABES,Applied Counselors / Assessors (قيمون),151,83,68,83:68,45
+GABES,Supervisors & Directors,87,61,26,61:26,49
+GABES,Inspectors (all levels),38,25,13,25:13,51
+GABES,Engineers,38,32,6,32:6,42
+GABES,"Other staff (contractors, janitors, technical assistants)",593,296,297,296:297,40
+GAFSA,Primary School Teachers,2372,807,1565,807:1565,38
+GAFSA,Preparatory School Teachers,1334,601,733,601:733,42
+GAFSA,Secondary School Teachers,1236,569,667,569:667,44
+GAFSA,Administrative staff,527,211,316,211:316,41
+GAFSA,Technicians / Technical staff,198,148,50,148:50,39
+GAFSA,Counselors (orientation & guidance),132,46,86,46:86,43
+GAFSA,Applied Counselors / Assessors (قيمون),132,73,59,73:59,45
+GAFSA,Supervisors & Directors,76,53,23,53:23,49
+GAFSA,Inspectors (all levels),33,21,12,21:12,51
+GAFSA,Engineers,33,28,5,28:5,42
+GAFSA,"Other staff (contractors, janitors, technical assistants)",517,258,259,258:259,40
+KEBILI,Primary School Teachers,1145,389,756,389:756,38
+KEBILI,Preparatory School Teachers,644,290,354,290:354,42
+KEBILI,Secondary School Teachers,597,275,322,275:322,44
+KEBILI,Administrative staff,255,102,153,102:153,41
+KEBILI,Technicians / Technical staff,95,71,24,71:24,39
+KEBILI,Counselors (orientation & guidance),64,22,42,22:42,43
+KEBILI,Applied Counselors / Assessors (قيمون),64,35,29,35:29,45
+KEBILI,Supervisors & Directors,37,26,11,26:11,49
+KEBILI,Inspectors (all levels),16,10,6,10:6,51
+KEBILI,Engineers,16,14,2,14:2,42
+KEBILI,"Other staff (contractors, janitors, technical assistants)",250,125,125,125:125,40
+JENDOUBA,Primary School Teachers,2703,919,1784,919:1784,38
+JENDOUBA,Preparatory School Teachers,1521,686,835,686:835,42
+JENDOUBA,Secondary School Teachers,1408,648,760,648:760,44
+JENDOUBA,Administrative staff,601,240,361,240:361,41
+JENDOUBA,Technicians / Technical staff,225,169,56,169:56,39
+JENDOUBA,Counselors (orientation & guidance),150,52,98,52:98,43
+JENDOUBA,Applied Counselors / Assessors (قيمون),150,82,68,82:68,45
+JENDOUBA,Supervisors & Directors,86,60,26,60:26,49
+JENDOUBA,Inspectors (all levels),38,25,13,25:13,51
+JENDOUBA,Engineers,38,32,6,32:6,42
+JENDOUBA,"Other staff (contractors, janitors, technical assistants)",590,295,295,295:295,40
+KAIROUAN,Primary School Teachers,4020,1367,2653,1367:2653,38
+KAIROUAN,Preparatory School Teachers,2261,1020,1241,1020:1241,42
+KAIROUAN,Secondary School Teachers,2093,963,1130,963:1130,44
+KAIROUAN,Administrative staff,893,357,536,357:536,41
+KAIROUAN,Technicians / Technical staff,336,252,84,252:84,39
+KAIROUAN,Counselors (orientation & guidance),223,78,145,78:145,43
+KAIROUAN,Applied Counselors / Assessors (قيمون),223,123,100,123:100,45
+KAIROUAN,Supervisors & Directors,128,90,38,90:38,49
+KAIROUAN,Inspectors (all levels),56,36,20,36:20,51
+KAIROUAN,Engineers,56,48,8,48:8,42
+KAIROUAN,"Other staff (contractors, janitors, technical assistants)",877,438,439,438:439,40
+KASSERINE,Primary School Teachers,3113,1058,2055,1058:2055,38
+KASSERINE,Preparatory School Teachers,1751,790,961,790:961,42
+KASSERINE,Secondary School Teachers,1621,746,875,746:875,44
+KASSERINE,Administrative staff,692,277,415,277:415,41
+KASSERINE,Technicians / Technical staff,259,194,65,194:65,39
+KASSERINE,Counselors (orientation & guidance),174,61,113,61:113,43
+KASSERINE,Applied Counselors / Assessors (قيمون),173,95,78,95:78,45
+KASSERINE,Supervisors & Directors,99,69,30,69:30,49
+KASSERINE,Inspectors (all levels),43,28,15,28:15,51
+KASSERINE,Engineers,43,37,6,37:6,42
+KASSERINE,"Other staff (contractors, janitors, technical assistants)",679,340,339,340:339,40
+KEF,Primary School Teachers,1654,562,1092,562:1092,38
+KEF,Preparatory School Teachers,930,420,510,420:510,42
+KEF,Secondary School Teachers,861,396,465,396:465,44
+KEF,Administrative staff,367,147,220,147:220,41
+KEF,Technicians / Technical staff,138,104,34,104:34,39
+KEF,Counselors (orientation & guidance),92,32,60,32:60,43
+KEF,Applied Counselors / Assessors (قيمون),92,51,41,51:41,45
+KEF,Supervisors & Directors,53,37,16,37:16,49
+KEF,Inspectors (all levels),23,15,8,15:8,51
+KEF,Engineers,23,20,3,20:3,42
+KEF,"Other staff (contractors, janitors, technical assistants)",361,180,181,180:181,40
+MAHDIA,Primary School Teachers,2996,1019,1977,1019:1977,38
+MAHDIA,Preparatory School Teachers,1685,760,925,760:925,42
+MAHDIA,Secondary School Teachers,1561,718,843,718:843,44
+MAHDIA,Administrative staff,666,266,400,266:400,41
+MAHDIA,Technicians / Technical staff,250,188,62,188:62,39
+MAHDIA,Counselors (orientation & guidance),166,58,108,58:108,43
+MAHDIA,Applied Counselors / Assessors (قيمون),166,91,75,91:75,45
+MAHDIA,Supervisors & Directors,96,67,29,67:29,49
+MAHDIA,Inspectors (all levels),42,27,15,27:15,51
+MAHDIA,Engineers,42,36,6,36:6,42
+MAHDIA,"Other staff (contractors, janitors, technical assistants)",652,326,326,326:326,40
+MANOUBA,Primary School Teachers,2853,970,1883,970:1883,38
+MANOUBA,Preparatory School Teachers,1605,724,881,724:881,42
+MANOUBA,Secondary School Teachers,1486,684,802,684:802,44
+MANOUBA,Administrative staff,634,254,380,254:380,41
+MANOUBA,Technicians / Technical staff,238,178,60,178:60,39
+MANOUBA,Counselors (orientation & guidance),158,55,103,55:103,43
+MANOUBA,Applied Counselors / Assessors (قيمون),158,87,71,87:71,45
+MANOUBA,Supervisors & Directors,91,64,27,64:27,49
+MANOUBA,Inspectors (all levels),40,26,14,26:14,51
+MANOUBA,Engineers,40,34,6,34:6,42
+MANOUBA,"Other staff (contractors, janitors, technical assistants)",622,311,311,311:311,40
+MEDENINE,Primary School Teachers,3492,1187,2305,1187:2305,38
+MEDENINE,Preparatory School Teachers,1964,887,1077,887:1077,42
+MEDENINE,Secondary School Teachers,1818,836,982,836:982,44
+MEDENINE,Administrative staff,776,310,466,310:466,41
+MEDENINE,Technicians / Technical staff,291,218,73,218:73,39
+MEDENINE,Counselors (orientation & guidance),195,68,127,68:127,43
+MEDENINE,Applied Counselors / Assessors (قيمون),194,107,87,107:87,45
+MEDENINE,Supervisors & Directors,112,78,34,78:34,49
+MEDENINE,Inspectors (all levels),48,31,17,31:17,51
+MEDENINE,Engineers,48,41,7,41:7,42
+MEDENINE,"Other staff (contractors, janitors, technical assistants)",761,380,381,380:381,40
+MONASTIR,Primary School Teachers,4087,1390,2697,1390:2697,38
+MONASTIR,Preparatory School Teachers,2299,1037,1262,1037:1262,42
+MONASTIR,Secondary School Teachers,2129,979,1150,979:1150,44
+MONASTIR,Administrative staff,908,363,545,363:545,41
+MONASTIR,Technicians / Technical staff,341,256,85,256:85,39
+MONASTIR,Counselors (orientation & guidance),226,79,147,79:147,43
+MONASTIR,Applied Counselors / Assessors (قيمون),227,125,102,125:102,45
+MONASTIR,Supervisors & Directors,131,92,39,92:39,49
+MONASTIR,Inspectors (all levels),57,37,20,37:20,51
+MONASTIR,Engineers,57,48,9,48:9,42
+MONASTIR,"Other staff (contractors, janitors, technical assistants)",891,446,445,446:445,40
+NABEUL,Primary School Teachers,5845,1987,3858,1987:3858,38
+NABEUL,Preparatory School Teachers,3288,1483,1805,1483:1805,42
+NABEUL,Secondary School Teachers,3045,1401,1644,1401:1644,44
+NABEUL,Administrative staff,1299,520,779,520:779,41
+NABEUL,Technicians / Technical staff,486,364,122,364:122,39
+NABEUL,Counselors (orientation & guidance),325,114,211,114:211,43
+NABEUL,Applied Counselors / Assessors (قيمون),325,179,146,179:146,45
+NABEUL,Supervisors & Directors,187,131,56,131:56,49
+NABEUL,Inspectors (all levels),81,53,28,53:28,51
+NABEUL,Engineers,81,69,12,69:12,42
+NABEUL,"Other staff (contractors, janitors, technical assistants)",1275,638,637,638:637,40
+SELIANA,Primary School Teachers,1530,520,1010,520:1010,38
+SELIANA,Preparatory School Teachers,860,388,472,388:472,42
+SELIANA,Secondary School Teachers,797,367,430,367:430,44
+SELIANA,Administrative staff,340,136,204,136:204,41
+SELIANA,Technicians / Technical staff,127,95,32,95:32,39
+SELIANA,Counselors (orientation & guidance),85,30,55,30:55,43
+SELIANA,Applied Counselors / Assessors (قيمون),85,47,38,47:38,45
+SELIANA,Supervisors & Directors,49,34,15,34:15,49
+SELIANA,Inspectors (all levels),21,14,7,14:7,51
+SELIANA,Engineers,21,18,3,18:3,42
+SELIANA,"Other staff (contractors, janitors, technical assistants)",334,167,167,167:167,40
+SFAX_1,Primary School Teachers,3437,1169,2268,1169:2268,38
+SFAX_1,Preparatory School Teachers,1933,872,1061,872:1061,42
+SFAX_1,Secondary School Teachers,1790,823,967,823:967,44
+SFAX_1,Administrative staff,764,306,458,306:458,41
+SFAX_1,Technicians / Technical staff,286,214,72,214:72,39
+SFAX_1,Counselors (orientation & guidance),191,67,124,67:124,43
+SFAX_1,Applied Counselors / Assessors (قيمون),191,105,86,105:86,45
+SFAX_1,Supervisors & Directors,110,77,33,77:33,49
+SFAX_1,Inspectors (all levels),48,31,17,31:17,51
+SFAX_1,Engineers,48,41,7,41:7,42
+SFAX_1,"Other staff (contractors, janitors, technical assistants)",748,374,374,374:374,40
+SFAX_2,Primary School Teachers,3437,1169,2268,1169:2268,38
+SFAX_2,Preparatory School Teachers,1933,872,1061,872:1061,42
+SFAX_2,Secondary School Teachers,1790,823,967,823:967,44
+SFAX_2,Administrative staff,764,306,458,306:458,41
+SFAX_2,Technicians / Technical staff,286,214,72,214:72,39
+SFAX_2,Counselors (orientation & guidance),191,67,124,67:124,43
+SFAX_2,Applied Counselors / Assessors (قيمون),191,105,86,105:86,45
+SFAX_2,Supervisors & Directors,110,77,33,77:33,49
+SFAX_2,Inspectors (all levels),48,31,17,31:17,51
+SFAX_2,Engineers,48,41,7,41:7,42
+SFAX_2,"Other staff (contractors, janitors, technical assistants)",748,374,374,374:374,40
+SIDI_BOUZID,Primary School Teachers,3072,1044,2028,1044:2028,38
+SIDI_BOUZID,Preparatory School Teachers,1728,780,948,780:948,42
+SIDI_BOUZID,Secondary School Teachers,1601,736,865,736:865,44
+SIDI_BOUZID,Administrative staff,683,273,410,273:410,41
+SIDI_BOUZID,Technicians / Technical staff,256,192,64,192:64,39
+SIDI_BOUZID,Counselors (orientation & guidance),171,60,111,60:111,43
+SIDI_BOUZID,Applied Counselors / Assessors (قيمون),171,94,77,94:77,45
+SIDI_BOUZID,Supervisors & Directors,98,69,29,69:29,49
+SIDI_BOUZID,Inspectors (all levels),43,28,15,28:15,51
+SIDI_BOUZID,Engineers,43,37,6,37:6,42
+SIDI_BOUZID,"Other staff (contractors, janitors, technical assistants)",670,335,335,335:335,40
+SOUSSE,Primary School Teachers,5041,1714,3327,1714:3327,38
+SOUSSE,Preparatory School Teachers,2836,1279,1557,1279:1557,42
+SOUSSE,Secondary School Teachers,2625,1208,1417,1208:1417,44
+SOUSSE,Administrative staff,1120,448,672,448:672,41
+SOUSSE,Technicians / Technical staff,420,315,105,315:105,39
+SOUSSE,Counselors (orientation & guidance),280,98,182,98:182,43
+SOUSSE,Applied Counselors / Assessors (قيمون),280,154,126,154:126,45
+SOUSSE,Supervisors & Directors,161,113,48,113:48,49
+SOUSSE,Inspectors (all levels),70,46,24,46:24,51
+SOUSSE,Engineers,70,60,10,60:10,42
+SOUSSE,"Other staff (contractors, janitors, technical assistants)",1099,550,549,550:549,40
+TATAOUINE,Primary School Teachers,1015,345,670,345:670,38
+TATAOUINE,Preparatory School Teachers,571,258,313,258:313,42
+TATAOUINE,Secondary School Teachers,528,243,285,243:285,44
+TATAOUINE,Administrative staff,226,90,136,90:136,41
+TATAOUINE,Technicians / Technical staff,86,64,22,64:22,39
+TATAOUINE,Counselors (orientation & guidance),56,20,36,20:36,43
+TATAOUINE,Applied Counselors / Assessors (قيمون),56,31,25,31:25,45
+TATAOUINE,Supervisors & Directors,32,22,10,22:10,49
+TATAOUINE,Inspectors (all levels),14,9,5,9:5,51
+TATAOUINE,Engineers,14,12,2,12:2,42
+TATAOUINE,"Other staff (contractors, janitors, technical assistants)",221,110,111,110:111,40
+TOZEUR,Primary School Teachers,777,264,513,264:513,38
+TOZEUR,Preparatory School Teachers,437,198,239,198:239,42
+TOZEUR,Secondary School Teachers,405,186,219,186:219,44
+TOZEUR,Administrative staff,173,69,104,69:104,41
+TOZEUR,Technicians / Technical staff,65,49,16,49:16,39
+TOZEUR,Counselors (orientation & guidance),43,15,28,15:28,43
+TOZEUR,Applied Counselors / Assessors (قيمون),43,24,19,24:19,45
+TOZEUR,Supervisors & Directors,25,18,7,18:7,49
+TOZEUR,Inspectors (all levels),11,7,4,7:4,51
+TOZEUR,Engineers,11,9,2,9:2,42
+TOZEUR,"Other staff (contractors, janitors, technical assistants)",169,84,85,84:85,40
+TUNIS_1,Primary School Teachers,3601,1224,2377,1224:2377,38
+TUNIS_1,Preparatory School Teachers,2026,914,1112,914:1112,42
+TUNIS_1,Secondary School Teachers,1876,863,1013,863:1013,44
+TUNIS_1,Administrative staff,800,320,480,320:480,41
+TUNIS_1,Technicians / Technical staff,300,225,75,225:75,39
+TUNIS_1,Counselors (orientation & guidance),200,70,130,70:130,43
+TUNIS_1,Applied Counselors / Assessors (قيمون),200,110,90,110:90,45
+TUNIS_1,Supervisors & Directors,115,80,35,80:35,49
+TUNIS_1,Inspectors (all levels),50,32,18,32:18,51
+TUNIS_1,Engineers,50,42,8,42:8,42
+TUNIS_1,"Other staff (contractors, janitors, technical assistants)",785,392,393,392:393,40
+TUNIS_2,Primary School Teachers,3601,1224,2377,1224:2377,38
+TUNIS_2,Preparatory School Teachers,2026,914,1112,914:1112,42
+TUNIS_2,Secondary School Teachers,1876,863,1013,863:1013,44
+TUNIS_2,Administrative staff,800,320,480,320:480,41
+TUNIS_2,Technicians / Technical staff,300,225,75,225:75,39
+TUNIS_2,Counselors (orientation & guidance),200,70,130,70:130,43
+TUNIS_2,Applied Counselors / Assessors (قيمون),200,110,90,110:90,45
+TUNIS_2,Supervisors & Directors,115,80,35,80:35,49
+TUNIS_2,Inspectors (all levels),50,32,18,32:18,51
+TUNIS_2,Engineers,50,42,8,42:8,42
+TUNIS_2,"Other staff (contractors, janitors, technical assistants)",785,392,393,392:393,40
+ZAGHOUAN,Primary School Teachers,1277,434,843,434:843,38
+ZAGHOUAN,Preparatory School Teachers,718,324,394,324:394,42
+ZAGHOUAN,Secondary School Teachers,665,306,359,306:359,44
+ZAGHOUAN,Administrative staff,284,114,170,114:170,41
+ZAGHOUAN,Technicians / Technical staff,106,80,26,80:26,39
+ZAGHOUAN,Counselors (orientation & guidance),71,25,46,25:46,43
+ZAGHOUAN,Applied Counselors / Assessors (قيمون),71,39,32,39:32,45
+ZAGHOUAN,Supervisors & Directors,41,29,12,29:12,49
+ZAGHOUAN,Inspectors (all levels),18,12,6,12:6,51
+ZAGHOUAN,Engineers,18,15,3,15:3,42
+ZAGHOUAN,"Other staff (contractors, janitors, technical assistants)",277,138,139,138:139,40
