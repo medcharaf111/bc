@@ -89,12 +89,14 @@ class Command(BaseCommand):
             'Social Studies'
         ]
         for i, title in enumerate(lesson_titles):
+            teacher = teachers[i % len(teachers)]
             lesson, created = Lesson.objects.get_or_create(
                 title=title,
                 defaults={
                     'content': f'This is the content for {title}.',
                     'subject': subjects[i % len(subjects)],
-                    'created_by': teachers[i % len(teachers)],
+                    'created_by': teacher,
+                    'school': teacher.school,
                     'grade_level': str((i % 6) + 1)
                 }
             )
