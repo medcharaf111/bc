@@ -3,7 +3,7 @@ Management command to create initial data for the application
 """
 from django.core.management.base import BaseCommand
 from accounts.models import School, User
-from core.models import Subject, Lesson, Test, TestSubmission
+from core.models import Lesson, Test, TestSubmission
 from django.utils import timezone
 from datetime import timedelta
 import random
@@ -38,14 +38,8 @@ class Command(BaseCommand):
             if created:
                 self.stdout.write(self.style.SUCCESS(f'Created school: {school.name}'))
         
-        # Create subjects
-        subjects_data = ['Math', 'English', 'Physics', 'Chemistry', 'Biology', 'History', 'Arabic', 'French']
-        subjects = []
-        for subject_name in subjects_data:
-            subject, created = Subject.objects.get_or_create(name=subject_name)
-            subjects.append(subject)
-            if created:
-                self.stdout.write(self.style.SUCCESS(f'Created subject: {subject.name}'))
+        # Available subjects (stored as strings in JSONField)
+        subjects = ['math', 'english', 'arabic', 'science', 'social_studies']
         
         # Create teachers (5 teachers)
         teachers = []
@@ -57,12 +51,12 @@ class Command(BaseCommand):
                     'first_name': f'Teacher',
                     'last_name': f'{i}',
                     'role': 'teacher',
-                    'school': schools[i % len(schools)]
+                    'school': schools[i % len(schools)],
+                    'subjects': [subjects[i % len(subjects)]]
                 }
             )
             if created:
                 teacher.set_password('demo123')
-                teacher.subjects.set([subjects[i % len(subjects)]])
                 teacher.save()
                 self.stdout.write(self.style.SUCCESS(f'Created teacher: {teacher.username}'))
             teachers.append(teacher)
@@ -89,10 +83,10 @@ class Command(BaseCommand):
         # Create lessons (10 lessons)
         lessons = []
         lesson_titles = [
-            'Introduction to Algebra', 'Grammar Basics', 'Newton\'s Laws',
-            'Chemical Reactions', 'Cell Biology', 'Ancient Civilizations',
-            'Arabic Literature', 'French Verbs', 'Geometry Fundamentals',
-            'Writing Essays'
+            'Introduction to Algebra', 'Grammar Basics', 'Arabic Reading',
+            'Basic Science', 'History Lesson', 'Math Fundamentals',
+            'English Writing', 'Arabic Grammar', 'Science Experiments',
+            'Social Studies'
         ]
         for i, title in enumerate(lesson_titles):
             lesson, created = Lesson.objects.get_or_create(
@@ -101,7 +95,7 @@ class Command(BaseCommand):
                     'content': f'This is the content for {title}.',
                     'subject': subjects[i % len(subjects)],
                     'created_by': teachers[i % len(teachers)],
-                    'difficulty_level': random.choice(['beginner', 'intermediate', 'advanced'])
+                    'grade_level': str((i % 6) + 1)
                 }
             )
             lessons.append(lesson)
