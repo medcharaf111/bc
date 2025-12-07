@@ -258,10 +258,18 @@ class MinisterAnalytics:
         vault_tests = Test.objects.count() - ai_tests
         
         # Average questions per test
-        avg_questions_result = Test.objects.aggregate(
-            avg_q=Avg('questions__count')
-        )
-        avg_questions = float(avg_questions_result['avg_q'] or 8.5)
+        # For PostgreSQL compatibility, we calculate this differently
+        tests_with_questions = Test.objects.exclude(questions__isnull=True)
+        if tests_with_questions.exists():
+            total_count = 0
+            for test in tests_with_questions:
+                if isinstance(test.questions, dict) and 'count' in test.questions:
+                    total_count += test.questions['count']
+                elif isinstance(test.questions, list):
+                    total_count += len(test.questions)
+            avg_questions = total_count / tests_with_questions.count() if tests_with_questions.count() > 0 else 8.5
+        else:
+            avg_questions = 8.5
         
         # Approval rate (assume tests with submissions are approved)
         total_tests = Test.objects.count()
