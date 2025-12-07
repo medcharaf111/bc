@@ -13,11 +13,11 @@ class Command(BaseCommand):
         
         # Create test schools if they don't exist
         schools_data = [
-            {'id': 1, 'name': 'Primary School 1', 'address': 'Tunis', 'code': 'SCH001'},
-            {'id': 2, 'name': 'Primary School 2', 'address': 'Sfax', 'code': 'SCH002'},
-            {'id': 3, 'name': 'Secondary School 1', 'address': 'Sousse', 'code': 'SCH003'},
-            {'id': 4, 'name': 'Secondary School 2', 'address': 'Bizerte', 'code': 'SCH004'},
-            {'id': 5, 'name': 'High School 1', 'address': 'Gabes', 'code': 'SCH005'},
+            {'id': 1, 'name': 'Primary School 1', 'address': 'Tunis', 'school_code': 'SCH001'},
+            {'id': 2, 'name': 'Primary School 2', 'address': 'Sfax', 'school_code': 'SCH002'},
+            {'id': 3, 'name': 'Secondary School 1', 'address': 'Sousse', 'school_code': 'SCH003'},
+            {'id': 4, 'name': 'Secondary School 2', 'address': 'Bizerte', 'school_code': 'SCH004'},
+            {'id': 5, 'name': 'High School 1', 'address': 'Gabes', 'school_code': 'SCH005'},
         ]
         
         created_count = 0
@@ -27,7 +27,7 @@ class Command(BaseCommand):
                 defaults={
                     'name': school_data['name'],
                     'address': school_data['address'],
-                    'code': school_data['code']
+                    'school_code': school_data['school_code']
                 }
             )
             if created:
