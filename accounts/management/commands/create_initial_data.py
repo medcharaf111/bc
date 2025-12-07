@@ -15,6 +15,11 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         self.stdout.write('Creating initial data...')
         
+        # Check if data already exists
+        if User.objects.filter(username__startswith='teacher').exists():
+            self.stdout.write(self.style.WARNING('Demo data already exists. Skipping creation.'))
+            return
+        
         # Create test schools if they don't exist
         schools_data = [
             {'id': 1, 'name': 'Primary School 1', 'address': 'Tunis', 'school_code': 'SCH001'},
@@ -92,10 +97,10 @@ class Command(BaseCommand):
             teacher = teachers[i % len(teachers)]
             lesson, created = Lesson.objects.get_or_create(
                 title=title,
+                created_by=teacher,
                 defaults={
                     'content': f'This is the content for {title}.',
                     'subject': subjects[i % len(subjects)],
-                    'created_by': teacher,
                     'school': teacher.school,
                     'grade_level': str((i % 6) + 1)
                 }
